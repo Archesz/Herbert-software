@@ -20,11 +20,11 @@ function Home() {
 
                 <div className="home-content">
 
-                    <span className="home-title">Welcome to MicTool</span>
+                    <span className="home-title">Bem vindo Herbertianx</span>
 
-                    <span className="home-subtitle">For researchers, students and medical centers.</span>
+                    <span className="home-subtitle">Para uso pessoal do Herbert de Souza.</span>
 
-                    <span className="home-descript">An open source application developed for the study and research in medical imaging.</span>
+                    <span className="home-descript">Software desenvolvido por Archesz para o Projeto Popular Cursinho Herbert de Souza.</span>
 
                     <Button classes="full big" text="Start"/>
 
@@ -38,9 +38,9 @@ function Home() {
 
             <div id="home-footer">
 
-                <InfoCard title="Open Source" descript="Open source software for reproducibility and development." img={open}/>
-                <InfoCard title="Multiple Services" descript="Methods for different structures and services" img={services}/>
-                <InfoCard title="User First" descript="Easy to use and install, for end users and developers." img={user}/>
+                <InfoCard title="Open Source" descript="Software de código aberto disponível no github." img={open}/>
+                <InfoCard title="Reprodutibilidade" descript="Reprodutibilidade para outros projetos que utilizem sistemas semelhantes" img={services}/>
+                <InfoCard title="Usuários" descript="Desenvolvido para facilitar o trabalho da secretaria, professores e coordenadores." img={user}/>
 
             </div>
 

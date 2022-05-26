@@ -1,7 +1,7 @@
 import React from 'react'
 import './Menu.scss'
 
-const itens = ['Home', 'Team', 'About', 'Development']
+const itens = ['Home', 'Membros', 'Sobre', 'Atualizações']
 
 function Menu(props) {
 
